@@ -1,0 +1,8 @@
+requests
+pymongo
+lxml
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
