@@ -42,3 +42,7 @@ python spider_work.py  # 爬取数据
 python ad_analyse.py   # 分析爬取的数据
 python analyse.py      # 进行预测建模
 ```
+## 结果
+![image](https://github.com/jerry609/lianjia_analyse/assets/83530782/53724175-0d35-4a87-9d5f-290aa479de02)
+![image](https://github.com/jerry609/lianjia_analyse/assets/83530782/f6175865-8e92-45a8-b805-b38959d6d478)
+
