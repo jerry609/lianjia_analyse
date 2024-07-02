@@ -45,4 +45,9 @@ python analyse.py      # 进行预测建模
 ## 结果
 ![image](https://github.com/jerry609/lianjia_analyse/assets/83530782/53724175-0d35-4a87-9d5f-290aa479de02)
 ![image](https://github.com/jerry609/lianjia_analyse/assets/83530782/f6175865-8e92-45a8-b805-b38959d6d478)
+![image](https://github.com/jerry609/lianjia_analyse/assets/83530782/ac5d676e-3578-4e2f-8a9c-b802297253d0)
+![image](https://github.com/jerry609/lianjia_analyse/assets/83530782/4f7861b4-ca18-4e0d-b3f0-bf4262547a99)
+![image](https://github.com/jerry609/lianjia_analyse/assets/83530782/e8e02ec5-bfda-419f-a303-e81ffc4dbe07)
+
+
 
