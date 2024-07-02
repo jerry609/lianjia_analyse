@@ -49,5 +49,6 @@ python analyse.py      # 进行预测建模
 ![image](https://github.com/jerry609/lianjia_analyse/assets/83530782/4f7861b4-ca18-4e0d-b3f0-bf4262547a99)
 ![image](https://github.com/jerry609/lianjia_analyse/assets/83530782/e8e02ec5-bfda-419f-a303-e81ffc4dbe07)
 
-
+## 参考
+https://gitee.com/lihaogn/SpiderLianjia
 
