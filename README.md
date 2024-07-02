@@ -6,8 +6,8 @@
 
 - `spider_work.py`：包含从链家网站提取房产详细信息的网页爬取逻辑。使用 `requests` 进行 HTTP 请求和 `lxml` 进行 HTML 解析。
 - `dbUtils.py`：管理数据库操作，如连接、插入和查询数据，使用 `pymongo` 与 MongoDB 交互。
-- `ad_analyse.py`：使用 `pandas`、`matplotlib` 和 `seaborn` 分析抓取的数据，生成关于房价、区域分布等的洞察。
-- `analyse.py`：利用 `scikit-learn` 和 `xgboost` 运用统计和机器学习模型根据区域、单价和房型等特征预测房产价格。
+- `analyse.py`：使用 `pandas`、`matplotlib` 和 `seaborn` 分析抓取的数据，生成关于房价、区域分布等的洞察。
+- `ad_analyse.py`：利用 `scikit-learn` 和 `xgboost` 运用统计和机器学习模型根据区域、单价和房型等特征预测房产价格。
 
 ## 功能
 
